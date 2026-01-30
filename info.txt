@@ -1,0 +1,4 @@
+Name: [Adilet Askarbekov]
+Course: Devops Essentials
+Week: 1
+Status: Completed
