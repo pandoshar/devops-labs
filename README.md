@@ -1,21 +1,21 @@
-#DevOps lab 1 - Linux CLI
+# DevOps lab 1 - Linux CLI
 **Student** [Adilet Askarbekov]
 **Group**[COMCEH-23]
 **Date**[30.01.26]
 
-##TASK 1:Navigation
+## TASK 1:Navigation
 DONE
-##TASK 2:File control
+## TASK 2:File control
 DONE
-##TASK 3:Work with inside stuf
+## ASK 3:Work with inside stuf
 DONE
-##TASK 4:Search
+## TASK 4:Search
 Done
-##TASK 5:Bash scripts
+## TASK 5:Bash scripts
 DONE
 
-##Difficulties
+## Difficulties
 Sometimes i made a mistakes with file names
-##What learned
+## What learned
 How to work with terminal
 
