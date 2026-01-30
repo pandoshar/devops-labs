@@ -1,5 +1,5 @@
 #DevOps lab 1 - Linux CLI
-**Student**[Adilet Askarbekov]
+**Student** [Adilet Askarbekov]
 **Group**[COMCEH-23]
 **Date**[30.01.26]
 
